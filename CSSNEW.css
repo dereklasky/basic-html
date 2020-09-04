@@ -1,0 +1,102 @@
+header {
+background-color: darkgreen;
+color: white;
+font-family: sans-serif; 
+font-size: 20px;
+text-align-last: center;
+padding-bottom: 10px;
+border: solid darkgoldenrod;
+border-radius: 5px;
+}
+h1 {
+margin-bottom: 4px;
+margin-top: 6px;
+font-family: cursive;
+color: darkgoldenrod;
+}
+#img-responsive {
+    text-align: inherit;
+}
+#RWpics {
+    text-align-last: center;
+}
+nav {
+ background-color: #eeeeee;
+padding: 8px;
+ font-family: sans-serif;
+ font-weight: bold;
+}
+a{
+color: gray;
+text-decoration: none;
+}
+a:hover{
+    color: firebrick;
+}
+main{
+font-family: sans-serif;
+font-size: 14px;
+}
+h2{
+background-color: darkgoldenrod;
+color: white;
+}
+footer{
+background-color: darkgreen;
+color: white;
+text-align: center;
+font-family: sans-serif;
+padding: 10px;
+font-size: 10px;
+}
+
+.a_d{
+border: 1px solid balck; 
+color: black; 
+padding: 10px 24px; 
+margin-left: 20px
+}
+  
+body{
+    font-family: sans-serif;
+}
+
+ .seq_list{
+   color: black;
+   border: 1px solid black;
+   margin: 5px;
+   border-radius: 5px;
+   padding: 8px;
+   background-color: lightgray;
+}
+
+form{
+    background-color: #eeeeee;
+    padding:16px;
+    min-width: 350px;
+    border-radius: 6px;
+    padding:20px;
+}
+textarea{
+    height: 100px;
+    width: 300px;
+}
+.button{
+    background-color: white;
+    padding: 5px;
+    border: 1px solid black;
+}
+.button:hover{
+    color:firebrick;
+    background-color: beige
+}
+input, select, textarea{
+    margin-bottom:8px;
+}
+label{
+    font-weight:100;
+}
+
+.st{
+    width: 500px;
+}
